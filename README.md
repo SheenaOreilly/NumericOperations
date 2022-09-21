@@ -1,2 +1,2 @@
 # NumericOperations
-Implement basic numeric operatoions using python
+Implement basic numeric operations using python
