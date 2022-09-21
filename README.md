@@ -1,2 +1,2 @@
 # NumericOperations
-he went too fast
+Implement basic numeric operatoions using python
